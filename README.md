@@ -53,3 +53,4 @@ This prototype records each passenger's fare separately and applies one configur
 ## Flutter Android foundation
 
 The separate [`mobile/`](./mobile/) folder contains a Flutter Android app with Firebase Realtime Database transactions and rules, fixed campus pins, and throttled driver location publishing. Its Next-day Class Ride screens cover student booking, driver commitments and schedules, and admin demand/assignment, with scheduled Cloud Functions and FCM reminders. Payment processing remains intentionally unconnected; see the mobile README for Firebase setup, Blaze-plan requirements, and production gaps. Flutter is separate from the existing Next.js web prototype.
+
